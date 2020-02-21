@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomSpinner</string>
+    <string-array name="history">
+        <item>Last 7 days</item>
+        <item>Last 14 days</item>
+        <item>Last 30 days</item>
+    </string-array>
+</resources>
